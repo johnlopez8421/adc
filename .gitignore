@@ -9,6 +9,12 @@
 *.sym
 *.lss
 
+#Misc
+Makefile.lib
+Makefile.wpo
+gcc.bat
+gcc2.bat
+
 #Programmer's Notepad files
 *.pnproj
 *.pnps

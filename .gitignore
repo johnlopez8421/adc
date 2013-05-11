@@ -1,0 +1,26 @@
+# automatically built files
+*.o
+*.a
+*.lst
+*.hex
+*.eep
+*.elf
+*.map
+*.sym
+*.lss
+
+#Programmer's Notepad files
+*.pnproj
+*.pnps
+
+#in source directory
+#auto generated
+src/*.o
+src/*.a
+src/*.lst
+
+#in .dep directory
+#all
+.dep/*
+
+
